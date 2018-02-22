@@ -1,8 +1,8 @@
 # SolarSystemAR
 
 ## Info
-* Developed Swift 3
-* Using in Xcode Version 9.2 (9C40b)
+* Developed in Swift 3
+* Using Xcode Version 9.2 (9C40b)
 * Using ARKit
 
 ## About
