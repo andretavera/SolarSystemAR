@@ -1,5 +1,10 @@
 # SolarSystemAR
 
+## Info
+* Developed Swift 3
+* Using in Xcode Version 9.2 (9C40b)
+* Using ARKit
+
 ## About
 This app is a simple example of augmented reality app, that shows our solar system in motion.
 
